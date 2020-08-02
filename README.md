@@ -7,7 +7,5 @@
 - 🤔 I’m looking for help with job
 - 💬 Ask me about Anything in Python
 - 📫 How to reach me: [Twitter](https://www.twitter.com/akramnarejo)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I've mango-sickness 
 - 🖊️ I write on [dev.to](https://dev.to/akramnarejo)
 
