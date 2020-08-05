@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/akramnarejo/akramnarejo.svg)](http://hits.dwyl.com/akramnarejo/akramnarejo)
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Flask
