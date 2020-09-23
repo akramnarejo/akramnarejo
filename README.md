@@ -2,8 +2,8 @@
 
 [![HitCount](http://hits.dwyl.com/akramnarejo/akramnarejo.svg)](http://hits.dwyl.com/akramnarejo/akramnarejo)
 
-- 🔭 I’m currently working on time series analysis
-- 🌱 I’m currently learning Flask
+- 🔭 I’m currently working on text-classification
+- 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with job
 - 💬 Ask me about Anything 
