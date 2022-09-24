@@ -1,4 +1,4 @@
-- 🙋🏼‍♂️ Hi, I’m Akram Narejo
+- 🙋🏼‍♂️ Hi, I’m Muhammad Akram
 - 💻 Frontend Developer ( React.js ). 
 - 🌱 Always learning - Currently learning React Native.
 - 👀 I’m looking to collaborate on fun and exciting projects!
