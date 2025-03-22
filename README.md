@@ -1,4 +1,4 @@
-- 🙋🏼‍♂️ Hi, I’m Muhammad Akram
+- 🙌 Hi, I’m Muhammad Akram
 - 💻 Frontend Engineer `React.js` `Next.js` 
 - 🌱 Always learning - currenlty exploring web3.
 - 👀 I’m looking to collaborate on fun and exciting projects!
